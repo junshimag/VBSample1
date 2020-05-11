@@ -1,0 +1,12 @@
+F:\MyDocument\dev\VBSample1\bin\Debug\VBSample1.exe.config
+F:\MyDocument\dev\VBSample1\bin\Debug\VBSample1.exe
+F:\MyDocument\dev\VBSample1\bin\Debug\VBSample1.pdb
+F:\MyDocument\dev\VBSample1\bin\Debug\VBSample1.xml
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.vbprojAssemblyReference.cache
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.Form1.resources
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.Resources.resources
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.vbproj.GenerateResource.cache
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.vbproj.CoreCompileInputs.cache
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.exe
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.xml
+F:\MyDocument\dev\VBSample1\obj\Debug\VBSample1.pdb
